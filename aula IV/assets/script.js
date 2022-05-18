@@ -85,3 +85,10 @@ while( a < 10){
     console.log(a);
     a++;
 }
+
+// do while
+console.log('Do While');
+do {
+    a++;
+    console.log(a);
+} while (a < 20);
