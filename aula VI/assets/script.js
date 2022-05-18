@@ -16,7 +16,7 @@ funcaoo();
 
 //Arrow function
 var funcaao = () => {
-    console.log('Sou uma arrow function');
+    console.log('Sou uma arrow function!');
 }
 
 funcaao();
